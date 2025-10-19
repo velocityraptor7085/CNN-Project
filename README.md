@@ -80,4 +80,4 @@ This project demonstrates:
 6. **Backpropagation**: How gradients flow through the network
 
 ## Author
-Educational CNN Project for Deep Learning Course
+Archit Chadalawada (Educational CNN Project for Deep Learning Course)
