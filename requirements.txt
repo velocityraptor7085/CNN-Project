@@ -1,0 +1,28 @@
+# Deep Learning CNN Project Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core Deep Learning Framework
+torch>=2.0.0              # PyTorch - our main deep learning framework
+torchvision>=0.15.0       # Provides datasets, model architectures, and image transformations
+
+# Numerical Computing
+numpy>=1.24.0             # Fundamental package for scientific computing
+scipy>=1.10.0             # Scientific computing and technical computing
+
+# Data Visualization
+matplotlib>=3.7.0         # Plotting library for creating visualizations
+seaborn>=0.12.0          # Statistical data visualization based on matplotlib
+
+# Image Processing
+Pillow>=9.5.0            # Python Imaging Library for opening, manipulating images
+opencv-python>=4.7.0     # Computer vision library for advanced image processing
+
+# Progress Bars and Utilities
+tqdm>=4.65.0             # Progress bar for loops and iterations
+
+# Metrics and Evaluation
+scikit-learn>=1.2.0      # Machine learning library for metrics and utilities
+
+# Jupyter Support (optional, for notebooks)
+jupyter>=1.0.0           # Jupyter notebook support
+ipywidgets>=8.0.0        # Interactive widgets for Jupyter notebooks
